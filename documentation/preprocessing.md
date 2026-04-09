@@ -1,3 +1,5 @@
+# Preprocessing
+
 All images undergo the following preprocessing steps:
 
 ## Steps
