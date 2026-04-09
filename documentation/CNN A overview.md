@@ -1,3 +1,5 @@
+# CNN-A Model Overview
+
 CNN-A is a dual-branch convolutional neural network designed for multimodal anomaly detection.
 
 ## Architecture
