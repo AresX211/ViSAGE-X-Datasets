@@ -1,3 +1,5 @@
+# Multimodal Pipeline
+
 The system processes both RGB and thermal data simultaneously.
 
 ## Input
