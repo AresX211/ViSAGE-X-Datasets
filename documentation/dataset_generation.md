@@ -1,3 +1,5 @@
+# Dataset Generation
+
 The dataset used in the ViSAGE-X project is synthetically generated to simulate satellite inspection scenarios.
 
 ## RGB Dataset
